@@ -187,6 +187,7 @@ html {
   margin-top: 0;
   margin-bottom: 1rem;
   line-height: 1.6;
+  text-align: justify;
 }
 .skill-tag {
   display: flex;
